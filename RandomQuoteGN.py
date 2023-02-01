@@ -3,7 +3,6 @@ from turtle import color
 from PIL import Image, ImageTk
 import random
 
-#from matplotlib.pyplot import text
 
 #crate a window for the about page 
 def open_about_page():
